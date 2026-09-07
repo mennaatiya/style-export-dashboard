@@ -12,12 +12,12 @@ st.set_page_config(page_title="Style Export Intelligence Dashboard", layout="wid
 # ---------- Data loading ----------
 @st.cache_data
 def load_data():
-    countries = pd.read_csv("data/countries.csv")
-    stones = pd.read_csv("data/stones.csv")
-    segments = pd.read_csv("data/segments.csv")
-    scores = pd.read_csv("data/stone_country_scores.csv")
-    swot = pd.read_csv("data/swot.csv")
-    action_plan = pd.read_csv("data/action_plan.csv")
+    countries = pd.read_csv("countries.csv")
+    stones = pd.read_csv("stones.csv")
+    segments = pd.read_csv("segments.csv")
+    scores = pd.read_csv("stone_country_scores.csv")
+    swot = pd.read_csv("swot.csv")
+    action_plan = pd.read_csv("action_plan.csv")
     return countries, stones, segments, scores, swot, action_plan
 
 countries, stones, segments, scores, swot, action_plan = load_data()
