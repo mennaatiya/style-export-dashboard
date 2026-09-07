@@ -1,0 +1,15 @@
+category,scope,item,impact_score,importance,evidence_status
+Strength,Company,"Existing, functioning export operation with an active, professional company profile and multi-channel digital presence",4,High,VERIFIED FACT
+Strength,Company,"Broad product range: blocks through to finished/custom items (tombstones, fountains, sinks)",4,High,VERIFIED FACT
+Strength,Export,"Already-established trade corridors into Libya, Saudi Arabia, Lebanon, Algeria and Romania",5,Critical,VERIFIED FACT
+Strength,Company,"Stated pre-production inspection service as a built-in quality/reliability signal",3,Medium,VERIFIED FACT
+Weakness,Company,"Repeated, non-stone-specific ASTM test data across the marble range undermines technical credibility",4,High,REASONABLE INFERENCE
+Weakness,Company,"No published production capacity, MOQ, lead time or certifications",4,High,REASONABLE INFERENCE
+Weakness,Company,"Minor brand-consistency issue (Instagram handle typo)",1,Low,VERIFIED FACT
+Weakness,Product,"No published granite-specific ASTM/technical data (only marble tested)",3,Medium,VERIFIED FACT
+Opportunity,Export,"Egypt's national push (quarry expansion, export monitoring, ~$1bn export target) improves sector-wide supply reliability",4,High,VERIFIED FACT
+Opportunity,Export,"US granite sourcing actively shifting away from Brazil; Italy's marble share gain shows buyers switch suppliers quickly",3,Medium,VERIFIED FACT
+Opportunity,Product,"Distinctive light-toned marbles (Sunny Minya, Galala Light) align with current minimalist design trends",3,Medium,REASONABLE INFERENCE
+Threat,Export,"Turkey's dominant marble export share (~42%) and China's production scale (~34%) are structural",5,Critical,VERIFIED FACT
+Threat,Export,"2026 US import data shows a softening premium natural-stone import market",3,Medium,VERIFIED FACT
+Threat,Product,"India's granite price competitiveness makes New Halayeb hard to differentiate on color alone",3,Medium,REASONABLE INFERENCE

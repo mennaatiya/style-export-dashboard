@@ -1,0 +1,11 @@
+segment,priority,score,why,best_countries,best_stones
+Construction Companies / Contractors,Critical,90,"Largest order volumes; fits blocks/slabs/tiles directly; repeat business on multi-phase projects.","Saudi Arabia; UAE; Libya; Algeria","Sunny Minya; Ramad El Sherka"
+Kitchen & Countertop Manufacturers,Critical,88,"Direct fit for granite range and cut-to-size capability; recurring demand, less project-cyclicality.","UAE; Saudi Arabia; Jordan; Morocco","Ramad El Sherka; New Halayeb"
+Marble & Granite Wholesalers / Traders,High,82,"Fastest route to volume and market access without Style building buyer relationships itself.","Romania; Algeria; Bulgaria","Meli Gray; Ramad El Sherka"
+Finishing & Interior Design Companies,High,78,"Strong fit with marble color range; project-based but design-led, less price-sensitive.","UAE; Qatar; France; Germany","Galala Light; Sunny Minya"
+Import Companies / Importers,High,76,"Lower entry friction than direct buyers; handle customs/logistics complexity for Style.","Morocco; Bulgaria; Jordan","Meli Gray; New Halayeb"
+Engineering Consultancy Companies,Medium,60,"Influence large specifications but are not the purchaser; long sales cycle, high strategic value.","Saudi Arabia; Qatar; United States","Sunny Minya; Galala Light"
+Monumental Masonry / Headstone Companies,Medium,58,"Direct fit -- Style already has a dedicated tombstone line; smaller order sizes, steady demand.","Libya; Lebanon; Romania","Meli Gray; Ramad El Sherka"
+Ceramic & Tiles Dealers,Medium,55,"Adjacent channel; useful for tile-format products, less so for blocks/slabs.","Algeria; Morocco; Jordan","New Halayeb; Ramad El Sherka"
+Swimming Pool Companies,Low-Medium,45,"Good fit for granite paving/coping; niche order sizes.","UAE; Qatar; Kuwait","Ramad El Sherka"
+Landscape Companies,Low-Medium,44,"Good fit for granite/special-art paving items; project-dependent, seasonal.","Saudi Arabia; UAE","Ramad El Sherka; New Halayeb"
